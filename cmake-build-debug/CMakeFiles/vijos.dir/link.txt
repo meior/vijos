@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/vijos.dir/main.cpp.o CMakeFiles/vijos.dir/DP/knapsack/1025.cpp.o  -o vijos 
